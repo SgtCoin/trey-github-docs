@@ -43,7 +43,7 @@ The first systems that Google built were a lot of cables, zip ties, and duct tap
 
 The rise of Web3 looks very similar. The early mining hardware was made of a lot of cables and zip ties. Now, Web3 is starting to look like a migration to a large, organized, global storage network. 
 
-![Rise of Decentralized Storage](https://imgur.com/NynjYCm.png)
+![Rise of Decentralized Storage](https://imgur.com/n6vetBl.png)
 
 
 ### Crypto to catalyze the deployment of Web3
